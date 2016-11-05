@@ -2,7 +2,16 @@
 layout: page
 title: About
 ---
-<a href="https://travis-ci.org/hunspell/hunspell"><img src="https://travis-ci.org/hunspell/hunspell.svg?branch=master"></a>
+<table>
+<tr>
+  <td><b>hunspell</b></td>
+  <td><a href="https://travis-ci.org/hunspell/hunspell"><img src="https://travis-ci.org/hunspell/hunspell.svg?branch=master"></a></td>
+</tr>
+<tr>
+  <td><b>hyphen</b></td>
+  <td><a href="https://travis-ci.org/hunspell/hyphen"><img src="https://travis-ci.org/hunspell/hyphen.svg?branch=master"></a></td>
+</tr>
+</table>
 
 Hunspell is the spell checker of [LibreOffice](http://www.libreoffice.org/), [OpenOffice.org](http://www.openoffice.org/), [Mozilla Firefox 3 & Thunderbird](http://www.mozilla.com/en-US), Google Chrome, and it is also used by proprietary software packages, like Mac OS X, InDesign, memoQ, Opera and SDL Trados.
 
