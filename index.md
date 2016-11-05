@@ -6,10 +6,12 @@ title: About
 <tr>
   <td><b>hunspell</b></td>
   <td><a href="https://travis-ci.org/hunspell/hunspell"><img src="https://travis-ci.org/hunspell/hunspell.svg?branch=master"></a></td>
+  <td><a href="https://ci.appveyor.com/project/hunspell-bot/hunspell-n4uof"><img src="https://ci.appveyor.com/api/projects/status/ecxsq3s4j2b9n965/branch/master?svg=true"></a></td>
 </tr>
 <tr>
   <td><b>hyphen</b></td>
   <td><a href="https://travis-ci.org/hunspell/hyphen"><img src="https://travis-ci.org/hunspell/hyphen.svg?branch=master"></a></td>
+  <td></td>
 </tr>
 </table>
 
