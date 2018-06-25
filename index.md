@@ -91,4 +91,4 @@ Contact us if you are considering sponsoring the developement and maintenance of
 
 ## Contact
 
-The code and issues are managed at [GitHub](https://github.com/hunspell/hunspell). Use that repository, also the closed issues, for any questions or contributions. The original author is László Németh (email: nemeth at [numbertext dot org](http://www.numbertext.org/)), [FSF.hu Foundation](http://www.fsf.hu/about-us), Hungary. Find Hunspell also on social media such as [Facebook](https://www.facebook.com/hunspell/) and on [Twitter](https://twitter.com/hashtag/hunspell).
+The code, wiki and issues are managed at [GitHub](https://github.com/hunspell/hunspell). Use that repository, also the closed issues, for any questions or contributions. The original author is László Németh (email: nemeth at [numbertext dot org](http://www.numbertext.org/)), [FSF.hu Foundation](http://www.fsf.hu/about-us), Hungary. Find Hunspell also on social media such as [Facebook](https://www.facebook.com/hunspell/) and on [Twitter](https://twitter.com/hashtag/hunspell).
