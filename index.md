@@ -84,7 +84,7 @@ Several organisation have enabled the development and maintenance of Hunspell. T
 * Primary project sponsor: [FSF.hu Foundation](http://www.fsf.hu/)
 * Primary sponsor in 2008: [IMEDIA Media Monitoring](http://www.imedia.hu/)
 * Primary sponsor of the Hunspell development in 2003–2005: [Budapest Technical University Media Research Centre (BME MOKK)](http://mokk.bme.hu/)
-* [Mozilla Open Source Support](https://www.mozilla.org/moss/) in [2017 and 2018](https://blog.mozilla.org/blog/2017/04/10/mozilla-awards-365000-to-open-source-projects-as-part-of-moss/) for the rewrite in pure C++ called [Nuspell](https://github.com/hunspell/nuspell), version 2.0
+* [Mozilla Open Source Support](https://www.mozilla.org/moss/) in 2017 and 2018 for the rewrite in pure C++ called [Nuspell](https://github.com/hunspell/nuspell), version 2.0
 
 Contact us if you are considering sponsoring the developement and maintenance of free and open source spell checking. Especially with so many users and many different software integrations, this software is in constant need of proficient support. Reducing spelling errors not only improves quality of communication and indirectly teaches people about spelling, but it also reduces the risk for costly errors that could have been prevented.
 
