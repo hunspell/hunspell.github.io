@@ -26,6 +26,12 @@ Main features:
 * C++ library under GPL/LGPL/MPL tri-license.
 * Interfaces and ports: [AndroidHunspellService](https://github.com/mweimerskirch/AndroidHunspellService) (for Android, based on the Chromium fork of Hunspell), [Enchant](http://www.abisource.com/enchant/) (Generic spelling library from the Abiword project), [XSpell](http://sourceforge.net/projects/openxspell/) (macOS port, but Hunspell is part of the macOS from version 10.6 (Snow Leopard), and now it is enough to place the Hunspell dictionary files into ~/Library/Spelling or /Library/Spelling for spell checking), [Delphi](http://downloads.sourceforge.net/hunspell/delphi.zip), Java ([JNA](https://github.com/dren-dk/HunspellJNA), [JNI](http://tkltrans.sourceforge.net/magyar/huncheck.tar.gz)), [Perl](http://search.cpan.org/~eleonora/text_hunspell_1.2/Hunspell.pm), [.NET](http://nhunspell.sourceforge.net/), [.NET Standard](https://github.com/aarondandy/WeCantSpell.Hunspell), [Python](https://pypi.python.org/pypi/org.keyphrene), Ruby ([1](http://rubyforge.org/projects/ruby-hunspell/), [2](http://rubyforge.org/projects/hunspell), [3](http://rubygems.org/gems/hunspell-ffi)), [UNO](http://downloads.sourceforge.net/hunspell/hunspell_UNO_1.2.tar.gz), [RichEdit](http://sourceforge.net/projects/hunspell/files/Misc/RichEdit/).
 
+Translations: Hunspell has been translated into several languages already. If your language is missing or incomplete, please use [Weblate](https://hosted.weblate.org/engage/hunspell/) to help translate Hunspell.
+
+<a href="https://hosted.weblate.org/engage/hunspell/">
+<img src="https://hosted.weblate.org/widgets/hunspell/-/translations/horizontal-auto.svg" alt="Stanje prijevoda" />
+</a>
+
 Dictionaries (in [LibreOffice](http://cgit.freedesktop.org/libreoffice/dictionaries/tree/), [LibreOffice extensions](http://extensions.libreoffice.org/extensions?getCategories=Dictionary&getCompatibility=any&sort_on=positive_ratings&path=%2FLibreOffice-Extensions-and-Templates%2Fextension-center&portal_type=PSCProject&SearchableText=), [Mozilla Add-Ons](https://addons.mozilla.org/en-us/firefox/language-tools/))
 
 Sponsors of project “[Dutchspell in Hunspell](http://sf.own-it.nl/wiki/opentaal/Wijzigingen_in_Hunspell_die_voor_ons_worden_gemaakt)”: [OpenTaal Foundation](http://www.opentaal.org/) and [Dutch Language Union](http://taalunieversum.org/en/)
